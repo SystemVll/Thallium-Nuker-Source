@@ -1,0 +1,11 @@
+[project]
+name = "thallium-nuker-source"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "discord>=2.3.2",
+    "httpx>=0.28.1",
+    "pystyle>=2.9",
+]
